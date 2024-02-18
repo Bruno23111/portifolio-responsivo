@@ -1,2 +1,19 @@
-# portifolio-responsivo
-Portfolio simples, porém responsivo.
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Bruno Bomfim Lima
+
+### Linkedin: [https://www.linkedin.com/in/bruno-bomfim-lima-5a36b127b/](https://www.linkedin.com/in/bruno-bomfim-lima-5a36b127b/)https://www.linkedin.com/in/bruno-bomfim-lima-5a36b127b/
+
+```
