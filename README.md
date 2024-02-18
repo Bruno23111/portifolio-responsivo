@@ -1,6 +1,6 @@
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
-![image](https://user-images.githubusercontent.com/77756047/211304452-220fedf0-f91b-490f-8a65-a60ce860bc5c.png)
+![image](https://github.com/Bruno23111/portifolio-responsivo/assets/81599298/5028e145-5d9a-4c4e-b5ca-b701c9a15bc2)
 
 ## Ferramentas utilizadas:
 
