@@ -158,6 +158,10 @@ body{
         padding: 5%;
         flex-direction: column;
     }
+
+    .cabecalho__menu{
+        gap: 30px;
+    }
     
 }
 
